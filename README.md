@@ -27,8 +27,8 @@
 
 ### Installation
 ```bash
-git clone https://github.com/yourusername/monsoonviz.git
-cd monsoonviz
+git clone https://github.com/Kirankumarvel/MonsoonViz.git
+cd MonsoonViz
 pip install -r requirements.txt
 ```
 
