@@ -28,7 +28,7 @@ class IndiaWeatherDashboard:
         self._set_visual_style()
         
         self.india_states = self._load_india_shapefile()
-        self.api_key = "4dd929adcfdf4584a22152643252103"  # WeatherAPI.com key
+        self.api_key = "YOUR_API_KEY"  # WeatherAPI.com key
         self.base_url = "http://api.weatherapi.com/v1/current.json"
     
     def _set_visual_style(self):
